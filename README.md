@@ -1,6 +1,6 @@
 ### Hi there 👋, Jacob Kantayya
 #### Data Science Developer
-I am Jacob from the Chicago land area. I love learning new data techniques find new insights
+I am Jacob from the Chicago land area. I love learning new data techniques to make discoveries and insights
 
 Skills: Python / Java / C++ / SQL
 
