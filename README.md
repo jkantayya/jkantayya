@@ -1,6 +1,14 @@
-## Hi there 👋
+### Hi there 👋, Jacob Kantayya
+#### Data Science Developer
+I am Jacob from the Chicago land area. I love learning new data techniques find new insights
 
-I'm Jacob from the Chicago land area.
+Skills: Python / Java / C++ / SQL
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-kantayya/)  
+
+
 
 <!--
 **jkantayya/jkantayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
