@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jacob from the Chicago land area.
+
 <!--
 **jkantayya/jkantayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
